@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anmol Kagrecha"
+title                    : "Anmol M. Kagrecha"
 title_separator          : "-"
-name                     : &name "Anmol Kagrecha"
+name                     : &name "Anmol M. Kagrecha"
 description              : &description "Homepage of a Kagrecha"
 url                      : https://akagrecha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anmol Kagrecha"
+  name             : "Anmol M. Kagrecha"
   avatar           : "profile.jpg"
   bio              : "Believer turned Skeptic"
   location         : "Stanford, CA"
