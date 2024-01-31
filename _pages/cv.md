@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[CV]({{ site.url }}/files/CV_2021.pdf)
+[CV]({{ site.url }}/files/CV_2024.pdf)
 
-(Updated September 2021)
+(Updated January 2024)

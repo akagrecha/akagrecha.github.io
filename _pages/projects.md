@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Technical Projects"
 permalink: /projects/
@@ -43,4 +43,4 @@ Designed a 6 stage pipelined microprocessor capable of executing 15 instructions
 
 9. **Applications of Semantic Web in Health Care and Medicine** (Summer '17) <br>
 *Advisor:  Dr. Dinesh Siddu, Philips Research, Bangalore* <br>
-Developed a Python module to convert files of a medical file format DICOM to files of semantic web format RDF for improved sharing of data and easier analysis by SPARQL query language. Optimized queries on Semantic Web Access Policy Application that reduced the query time by a factor of 50.
+Developed a Python module to convert files of a medical file format DICOM to files of semantic web format RDF for improved sharing of data and easier analysis by SPARQL query language. Optimized queries on Semantic Web Access Policy Application that reduced the query time by a factor of 50. -->

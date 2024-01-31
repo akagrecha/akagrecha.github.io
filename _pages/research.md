@@ -1,11 +1,12 @@
----
+<!-- ---
 layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
-{% include base_path %}
-1. **Constrained regret minimization for multi-criterion stochastic bandits** [[Paper]](https://arxiv.org/abs/2006.09649)
+{% include base_path %} -->
+
+<!-- 1. **Constrained regret minimization for multi-criterion stochastic bandits** [[Paper]](https://arxiv.org/abs/2006.09649)
 (Mar'19 to June'19) <br>
 *Advisors: Prof. Jayakrishnan Nair, EE, IITB & Prof. Krishna Jagannathan, EE, IITM* <br>
 *Introduction*: We formulate a new approach to consider multiple criteria in a stochastic bandit framework. The aim is to maximize the pulls of an arm which optimizes a certain criterion while satisfying constraints on the other criteria. In particular, we look at the problem of risk-constrained loss minimization but the analysis can be easily extended to more general settings. 
@@ -40,4 +41,4 @@ arm satisfies the constraint on CVaR or not.
 *Advisor: Prof. Swati Patankar, BSBE, IITB* <br>
 *Introduction*: *P. falciparum* is a malaria causing parasite & its genome is highly AT-rich, with AT content as high as 90% in the intergenic regions. Hence, a high number of upstream start codons & upstream open reading frames are found on the mRNAs, making the translation process of coding regions difficult to understand. <br>
 - Reviewed literature on translation in P. falciparum & identified important features governing the mechanism.
-- Developed a Markovian model to predict the translational efficiency based on the identified features and the data from in vitro experiments conducted in the lab.
+- Developed a Markovian model to predict the translational efficiency based on the identified features and the data from in vitro experiments conducted in the lab. -->
