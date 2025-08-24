@@ -1,0 +1,47 @@
+# jemdoc: menu{MENU}{research.html}
+
+= Publications
+
+== Aggregation algorithms
+. *Granular Feedback Merits Sophisticated Aggregation* \n 
+  A.K., Henrik Marklund, Potsawee Manakul, Richard Zeckhauser, Benjamin Van Roy \n
+  [https://arxiv.org/abs/2507.12041 \[Preprint\]]
+
+. *SkillAggregation: Reference-free LLM-Dependent Aggregation* \n
+  Guangzhi Sun, A.K., Potsawee Manakul, Phil Woodland, Mark Gales \n
+  Annual Meeting of the Association for Computational Linguistics (ACL 2025) \n
+  [https://aclanthology.org/2025.acl-long.756/ \[Paper\]]
+
+. *Adaptive Crowdsourcing Via Self-Supervised Learning* \n
+  A.K., Henrik Marklund, Benjamin Van Roy, Hong Jun Jeon, Richard Zeckhauser \n
+  [https://arxiv.org/abs/2401.13239 \[Preprint\]]
+
+
+== Bandit algorithms
+
+. *Statistically Robust, Risk-Averse Best Arm Identification in Multi-Armed Bandits* \n
+  A.K., Jayakrishnan Nair, Krishna Jagannathan \n
+  IEEE Transactions on Information Theory \n 
+  [https://ieeexplore.ieee.org/abstract/document/9745056 \[Paper\]]
+
+. *Constrained Regret Minimization for Multi-Criterion Multi-Armed Bandits* \n
+  A.K., Jayakrishnan Nair, Krishna Jagannathan \n
+  Springer Machine Learning \n
+  [https://link.springer.com/article/10.1007/s10994-022-06291-9 \[Paper\]]
+
+. *Bandit Algorithms: Letting Go of Logarithmic Regret for Statistical Robustness* \n
+  Kumar Ashutosh, Jayakrishnan Nair, A.K., Krishna Jagannathan \n
+  AISTATS 2021 \n
+  [https://proceedings.mlr.press/v130/ashutosh21a/ashutosh21a.pdf \[Paper\]]
+
+. *Distribution Oblivious, Risk-Aware Algorithms for Multi-Armed Bandits with Unbounded Rewards* \n
+  A.K., Jayakrishnan Nair, Krishna Jagannathan \n
+  NeurIPS 2019 \n
+  [https://papers.nips.cc/paper_files/paper/2019/hash/da54dd5a0398011cdfa50d559c2c0ef8-Abstract.html \[Paper\]]
+
+== Queueing theory
+
+. *"Please Come Back Later": Benefiting from Deferrals in Service Systems* \n
+  A.K. and Jayakrishnan Nair \n
+  COMSNETS 2020 \n
+  [https://ieeexplore.ieee.org/abstract/document/9027335 \[Paper\]]
